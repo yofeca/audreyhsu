@@ -15,7 +15,7 @@ jQuery('.sellers.Appliances.Included label').html('包含橱柜等设施');
 jQuery('.sellers.Price label').html('价格');
 jQuery('.sellers.Receive.Newsletter label').html('获得最新资讯');
 jQuery('.sellers.Comments label').html('留言');
-jQuery('.for_sellers .btn.submit').val('服从');
+jQuery('.for_sellers .btn.submit').val('提交');
 
 jQuery('.buyers.Ideal.Location label').html('<span class="important">*</span>理想居住地');
 jQuery('.buyers.Price.Range label').html('<span class="important">*</span>价格区间');
